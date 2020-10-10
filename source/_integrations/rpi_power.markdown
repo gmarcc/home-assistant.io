@@ -12,7 +12,7 @@ ha_codeowners:
 ha_config_flow: true
 ---
 
-The `rpi_power` integration allows you to detect [bad power supply](https://www.raspberrypi.org/documentation/hardware/raspberrypi/power/README.md) on Raspberry Pi. 
+The `rpi_power` integration allows you to detect a [bad power supply](https://www.raspberrypi.org/documentation/hardware/raspberrypi/power/README.md) on Raspberry Pi systems used to host Home Assistant. 
 
 ## Configuration
 
